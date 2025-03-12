@@ -25,7 +25,7 @@ const socialLinks = [
       id: 'twitter',
       name: 'Twitter',
       icon: XIcon,
-      href: 'https://twitter.com/FabiKarl',
+      href: 'https://twitter.com/MaxiWolf645',
       description: 'Follow me on Twitter',
     },
 ] as const;
