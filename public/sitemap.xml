@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://maxiwolf.de/</loc>
+    <lastmod>2025-03-12T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://maxiwolf.de/assets/hero/avatar.jpg</image:loc>
+      <image:title>Maximilian Wolf - Profile Picture</image:title>
+      <image:caption>Maximilian Wolf - CS Student</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://maxiwolf.de/resources/CV_Maximilian_Wolf.pdf</loc>
+    <lastmod>2025-03-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiwolf.de/#about</loc>
+    <lastmod>2025-03-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiwolf.de/#timeline</loc>
+    <lastmod>2025-03-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiwolf.de/#skills</loc>
+    <lastmod>2025-03-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://maxiwolf.de/#contact</loc>
+    <lastmod>2025-03-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

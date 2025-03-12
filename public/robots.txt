@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Prevent crawling of specific paths
+Disallow: /api/
+Disallow: /assets/private/
+
+# Sitemap location
+Sitemap: https://maxiwolf.de/sitemap.xml
