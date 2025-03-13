@@ -25,8 +25,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: '/assets/hero/avatar.jpg',
-        width: 1200,
-        height: 630,
+        width: 2169,
+        height: 2169,
         alt: 'Maximilian Wolf - CS Student',
       }
     ]
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Maximilian Wolf - CS Student',
     description: 'Computer Science Student at the University of Ulm currently pursuing my Bachelor degree',
-    creator: '@FabiKarl',
+    creator: '@MaxiWolf645',
     images: ['/assets/hero/avatar.jpg']
   },
   robots: {
